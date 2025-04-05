@@ -1,4 +1,7 @@
 # CODESOFT1
+Language : JAVA 
+
+About the programs:
 #NumberGame
   In this program a random number will be set and the user will be given number of atempts and the user must guess the random number with in the attempts.
   First after running the program, it will ask to guess the number with the 10 attempts. Later the user has to guess the number and if the user has guessed the random 
